@@ -16,6 +16,7 @@ Com toda a liberdade dada - o único ponto não opicional era a implementação 
 
 #### Contribuições Pessoais
 Fui responsável pelo UI-UX, desenvolvimento das páginas e a produção de algumas <i>features</i>.
+
 ##### <i>UI-UX</i>
 - Utilizei o design de cards e sombreamento para o ux, a ideia é que o usuário abra a página e já entenda que existe diferentes funções.
 <br>
@@ -23,6 +24,7 @@ Fui responsável pelo UI-UX, desenvolvimento das páginas e a produção de algu
 <br>
 <img src="img/ui_ux.png">
 <br>
+
 ##### <i>Features</i>
 - Também executei algumas das <i>features</i>:
 <br>
@@ -145,6 +147,7 @@ Fiquei encarregado de todo o <i>backend</i> do projeto e, mais tarde, da criaç�
 <br>
 <img src="img/MVC.PNG">
 <br>
+
 ##### <i>Backend</i>
 - Um exemplo de uma das 3 entidades do programa, podemos ver a utilização da biblioteca <b>Lombok</b> para simplificar e manter o código mais legível eliminando código <i>boilerplate</i> (código recorrente como <i>getters</i> e <i>setters</i>), também podemos observar a utilização do <i>framework</i> <b>Hibernate</b> sendo utilizado no seu modelo <b>JPA</b> para deixar mais simples a comunicação entre o banco de dados e a camada <i>Model</i>. E na imagem 2 e 3 temos um exemplo do mapeamento das diferentes entidades, OneToOne (1-1) no caso referindo-se a um Evento sendo criado por um Usuário e ManyToMany (N-N) sendo uma lista de participantes para esse Evento.
 <br>
