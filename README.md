@@ -15,17 +15,20 @@ Com toda a liberdade dada - o único ponto não opicional era a implementação 
  HTML, Javascript, CSS (os pilares do <i>frontend</i>) e GitHub
 
 #### Contribuições Pessoais
-Fui responsável pelo UI-UX e desenvolvimento das páginas.
+Fui responsável pelo UI-UX, desenvolvimento das páginas e a produção de algumas <i>features</i>.
+##### <i>UI-UX</i>
+- Utilizei o design de cards e sombreamento para o ux, a ideia é que o usuário abra a página e já entenda que existe diferentes funções.
 <br>
 <img src="img/tela_login.png">
 <br>
 <img src="img/ui_ux.png">
 <br>
-Também executei algumas das <i>features</i>:
+##### <i>Features</i>
+- Também executei algumas das <i>features</i>:
 <br>
 <img src="img/feito-por-mim.png">
 <br>
-Mapa, função simples que usava o javaScript para mostrar o destino falado pelo usuário, documento, outra função simples para abrir uma página contendo os documentos necessários para voos nacionais e internacionais, posição, usava uma api do google para mostrar a posição do usuário no google Maps, trajeto, uma função um pouco mais complexa, mostrava o trajeto que o usuário pedia por exemplo: "São Paulo para Rio de Janeiro".
+- Mapa, função simples que usava o javaScript para mostrar o destino falado pelo usuário, documento, outra função simples para abrir uma página contendo os documentos necessários para voos nacionais e internacionais, posição, usava uma api do google para mostrar a posição do usuário no google Maps, trajeto, uma função um pouco mais complexa, mostrava o trajeto que o usuário pedia por exemplo: "São Paulo para Rio de Janeiro".
 
 #### Hard Skills Efetivamente Desenvolvidas
 HTML, Javascript, CSS e Git Flow
@@ -56,9 +59,13 @@ Java, MySQL, IDE Eclipse Java
 
 #### Contribuições Pessoais
 Fui responsável pelo DAO - Objeto ou classe de acesso a dados, ele que conectava ao banco e fazia as transações -, como a intenção do trabalho era usar Java puro, trabalhei muito com o POO (programação orientada a objetos), lógica de programação, criação de query e JDBC para chegar até as soluções dos problemas.
+##### <i>DAO</i> e <i>Controller</i>
+- Nas imagens é possível ver a utilização de uma query para salvar um entidade enviada do <i>frontend</i> com alguns controles básicos de erros de banco.
 <br>
 <img src="img/controller-dao.png">
 <br>
+
+
 
 #### Hard Skills Efetivamente Desenvolvidas
 - <b>Java</b>
@@ -85,19 +92,22 @@ O que foi muito marcante nesse projeto foi todo o auxílio que os professores de
 Java SE 8, MySQL, IDE Eclipse, GitHub, IText, Maven e Framework Springboot
 
 #### Contribuições Pessoais
-Fui responsável pela maioria do <b>backend</b> e pela arquitetura MVC.
+Fui responsável pela maioria do <b>backend</b>, pela arquitetura MVC, regras de serviço e "raspagem" de dados.
+
+##### Arquitetura MVC
 <br>
 <img src="img/arquitetura-mvc.png">
 <br>
 
-Porém o maior desafio foi a lógica de programação para executar a raspagem de dados dos manuais em formato pdf, usei muito o pacote utils, lógica de programação e conhecimento em estruturas de dados como Listas e Mapas.
+##### Regras de Serviço
+- Porém o maior desafio foi a lógica de programação para executar a raspagem de dados dos manuais em formato pdf, usei muito o pacote utils, lógica de programação e conhecimento em estruturas de dados como Listas e Mapas.
 <br>
 <img src="img/ex-uso-arq.png">
 <br>
 [Veja a implementação da raspagem de dados nesse link!](https://github.com/GabrielSG20/Projeto_Integrador_3BD-1Sem2021/blob/main/AirPlan/src/main/java/com/airPlan/services/PdfService.java)
 
-
-Esse foi um dos projetos que mais contribui e de maneira essencial para o sucesso do grupo.
+##### Grande Contribuição
+- Esse foi um dos projetos que mais contribui e de maneira essencial para o sucesso do grupo.
 <br>
 <img src="img/contribuicoes.png">
 <br>
@@ -129,10 +139,34 @@ Esse projeto foi caracterizado pela simplicidade porém muito marcante para o me
 Java SE 14, GitHub, Framework Springboot, Oracle Autonomous Database , Angular e Maven.
 
 #### Contribuições Pessoais
-Fui responsável por todo o <b>backend</b> do projeto, com a experiência adquirida nos demais projetos, tentei implementar de uma forma mais clara e otimizada, utilizando novamente <i>POO</i> e <b>Spring Boot</b> com boas práticas e me desafiando a utilizar um pouco de <i>TDD</i> (<i>test driven development</i>). Também implementei autenticação utilizando <b>JWT</b> e <b>Oauth</b>, sendo a primeira vez que fiz um sistema de login mais "profissional".
+Fiquei encarregado de todo o <i>backend</i> do projeto e, mais tarde, da criação do banco de dados. A arquitetura que eu escolhi foi a MVC, pois, apesar de ser uma arquitetura mais antiga, ainda é muito utilizada no mercado de trabalho - pois funciona! -, desso modo trazendo um aprendizado efetivo para o meu desenvolvimento, adequa-se muito bem às soluções propostas para o problema e requer menos <i>resources</i> da parte do estudante - em uma arquitetura de micro serviços por exemplo seria difícil encontrar uma maneira de hospedar pelos menos 5 <i>end-points</i> sem pagar nada - pois, sendo estruturada de maneira monolitica, requer apenas uma hospedagem. Também optei pelo padrão <i>facade</i> ou seja, o cliente faz requisições (em JSON) para o programa portanto o <b>springboot</b> também foi o mais adequado.
+##### Arquitetura
+- Uma visão geral da arquitetura do programa. Já que na parte <i>View</i> foi utilizado um <i>framework</i> de <i>frontend</i> (Angular) o <i>backend</i> ficou encarregado da parte <i>Model</i> e <i>Controller</i> e outros pacotes interessantes para o projeto como <i>exception</i> para um melhor controle do fluxo do programa e <i>constant</i> para deixar o código mais legível.
+<br>
+<img src="img/MVC.PNG">
+<br>
+##### <i>Backend</i>
+- Um exemplo de uma das 3 entidades do programa, podemos ver a utilização da biblioteca <b>Lombok</b> para simplificar e manter o código mais legível eliminando código <i>boilerplate</i> (código recorrente como <i>getters</i> e <i>setters</i>), também podemos observar a utilização do <i>framework</i> <b>Hibernate</b> sendo utilizado no seu modelo <b>JPA</b> para deixar mais simples a comunicação entre o banco de dados e a camada <i>Model</i>. E na imagem 2 e 3 temos um exemplo do mapeamento das diferentes entidades, OneToOne (1-1) no caso referindo-se a um Evento sendo criado por um Usuário e ManyToMany (N-N) sendo uma lista de participantes para esse Evento.
+<br>
+<img src="img/models.PNG">
+<br>
 
 #### Hard Skills Efetivamente Desenvolvidas
-Java, Lógica de Programação, Maven para integração com testes unitários, Springboot e Angular.
+- <b>JPA</b>
+    - Extremamente utilizado no mercado de trabalho Java, eu já conhecia algumas anotações e parametros mas me aprofundei muito mais nesse projeto
+- Uso de constantes para deixar o código mais legível
+    - Como os demais integrantes do grupo precisam ler meu código para fazer a comunicação com o <i>frontend</i> decidi dar mais atenção a essa parte e acabou sendo de grande ajuda até para mim, por exemplo: foi muito mais fácil de fazer alterações
+- <b>Spring security</b>
+    - Consegui fazer uma boa introdução a essa biblioteca muito utilizada no mercado de trabalho
+- Banco de Dados em Cloud
+    - Foi um desafio sair da zona de conforto de só baixar a instalar um banco de dados local mas valeu muito a pena
+- Uso de bibliotecas externas como <b>OAuth 2.0</b> e <b>StringUtils</b>
+- Implementação de exceptions
+    - Algo extremamente importante para tornar-se um bom programador
+- Comunicação entre <i>frontend</i> e <i>backend</i> por JSON
+    - No começo do projeto participei muito do <i>frontend</i> e foi muito legal aprender sobre requisições HTML e JSON
+- Envio de emails
+    - Finalmente descobri como funciona!
 
 #### Soft Skills
 Organização<br>
