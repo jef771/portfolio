@@ -3,7 +3,7 @@
 Estudante de Banco de Dados pela FATEC São José dos Campos, estagiário fullstack em Java e estas são minhas experiências no desenvolvimento da API.
 
 # Meus Projetos
-
+<hr>
 ### Em 2020-1
 Tabalhei no projeto proposto pelos professores das materias focais do primeiro semestre do curso de Banco de Dados, uma assistente virtual guiada por comando de voz.<br>
 Foi dada total liberdade na escolha de tecnologia a ser utilizada no projeto e uma parceira com alunos do sexto semestre foi feita para passarem suas experiências na forma de Scrum Masters.<br>
@@ -47,6 +47,7 @@ Proatividade<br>
 Em muitos momentos precisei procurar o conhecimento, seja em vídeos de youtube, livros ou cursos, para conseguir desenvolver as <i>features</i>, design e <i>frontend</i>i>. 
 
 
+<hr>
 
 ### Em 2020-2
 Trabalhei no projeto da API com o Parceiro Acadêmico TecSUS.<br>
@@ -82,7 +83,7 @@ Fui responsável pelo DAO - Objeto ou classe de acesso a dados, ele que conectav
 Trabalho em equipe<br>
 Esse foi o projeto que mais trabalhei em equipe, ajudando membros do grupo com problemas no desenvolvimento.
 
-
+<hr>
 
 ### Em 2021-1
 Trabalhei no projeto da API com o Parceiro Acadêmico Embraer.<br>
@@ -128,6 +129,8 @@ Fui responsável pela maioria do <b>backend</b>, pela arquitetura MVC, regras de
 #### Soft Skills
 Resiliência e Autonomia<br>
 Todo projeto possui seus gargalos e suas dificuldades porém esse foi marcado pela dificuldade.
+
+<hr>
 
 ### Em 2021-2
 Trabalhei no projeto da API com o Parceiro Acadêmio Oracle.<br>
