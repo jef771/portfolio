@@ -23,6 +23,7 @@ Fui responsável pelo UI-UX, desenvolvimento das páginas e a produção de algu
 <br>
 <img src="img/ui_ux.png">
 <br>
+
 ##### <i>Features</i>
 - Também executei algumas das <i>features</i>:
 <br>
