@@ -1,8 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90&text=Olá, sou o Jeferson)
-
-#### Jeferson Tadeu das Neves
-
-# Olá, sou o Jeferson
+![header](https://capsule-render.vercel.app/api?type=wave&color=a6bf8e&height=300&section=footer&text=Olá,%20sou%20o%20Jeferson&fontSize=90&fontColor=e6f2e6)
 
 Estudante de Banco de Dados pela FATEC São José dos Campos, estagiário fullstack em Java e estas são minhas experiências no desenvolvimento da API.
 
@@ -95,10 +91,10 @@ Fui responsável pela maioria do <b>backend</b> e pela arquitetura MVC.
 <br>
 
 Porém o maior desafio foi a lógica de programação para executar a raspagem de dados dos manuais em formato pdf, usei muito o pacote utils, lógica de programação e conhecimento em estruturas de dados como Listas e Mapas.
-[Veja a implementação da raspagem de dados nesse link!](https://github.com/GabrielSG20/Projeto_Integrador_3BD-1Sem2021/blob/main/AirPlan/src/main/java/com/airPlan/services/PdfService.java)
 <br>
 <img src="img/ex-uso-arq.png">
 <br>
+[Veja a implementação da raspagem de dados nesse link!](https://github.com/GabrielSG20/Projeto_Integrador_3BD-1Sem2021/blob/main/AirPlan/src/main/java/com/airPlan/services/PdfService.java)
 
 
 Esse foi um dos projetos que mais contribui e de maneira essencial para o sucesso do grupo.
