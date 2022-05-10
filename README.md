@@ -148,13 +148,13 @@ Fiquei encarregado de todo o <i>backend</i> do projeto e, mais tarde, da criaç�
 ##### Arquitetura
 - Uma visão geral da arquitetura do programa. Já que na parte <i>View</i> foi utilizado um <i>framework</i> de <i>frontend</i> (Angular) o <i>backend</i> ficou encarregado da parte <i>Model</i> e <i>Controller</i> e outros pacotes interessantes para o projeto como <i>exception</i> para um melhor controle do fluxo do programa e <i>constant</i> para deixar o código mais legível.
 <br>
-<img src="img/MVC.PNG">
+<img src="img/MVC.png">
 <br>
 
 ##### <i>Backend</i>
 - Um exemplo de uma das 3 entidades do programa, podemos ver a utilização da biblioteca <b>Lombok</b> para simplificar e manter o código mais legível eliminando código <i>boilerplate</i> (código recorrente como <i>getters</i> e <i>setters</i>), também podemos observar a utilização do <i>framework</i> <b>Hibernate</b> sendo utilizado no seu modelo <b>JPA</b> para deixar mais simples a comunicação entre o banco de dados e a camada <i>Model</i>. E na imagem 2 e 3 temos um exemplo do mapeamento das diferentes entidades, OneToOne (1-1) no caso referindo-se a um Evento sendo criado por um Usuário e ManyToMany (N-N) sendo uma lista de participantes para esse Evento.
 <br>
-<img src="img/models.PNG">
+<img src="img/models.png">
 <br>
 
 #### Hard Skills Efetivamente Desenvolvidas
