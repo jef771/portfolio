@@ -224,10 +224,9 @@ Fui responsável pela maioria do <b>backend</b>, pela arquitetura MVC, regras de
 - Porém o maior desafio foi a lógica de programação para executar a raspagem de dados dos manuais em formato pdf, usei muito o pacote utils, lógica de programação e conhecimento em estruturas de dados como Listas e Mapas.
 <details>
   <summary markdown="span">Controller</summary>
-	```java
-		@Controller
+```java
+@Controller
 public class LEPController {
-
 
     private final LepService lepService;
 
@@ -266,21 +265,21 @@ public class LEPController {
 
 <details>
   <summary markdown="span">Repository</summary>
-	```java
-		@Repository
+```java
+@Repository
 public interface ManualRepository extends JpaRepository<Manual, Integer> {
     @Query(" select mnl_id from Manual where mnl_name = ?1 ")
     Integer findManualByName(String nomeManual);
     @Query("select count(mnl_id) from Manual where mnl_name = ?1")
     Long checkCount(String nomeManual);
 }
-	```
-	</details>
+```
+</details>
 	
 <details>
   <summary markdown="span">Service</summary>
-	```java
-		@Service
+```java
+@Service
 public class LepService
 {
     private final ManualService manualService;
@@ -1058,8 +1057,8 @@ public class LepService
     }
 
 }
-	```
-	</details>
+```
+</details>
 Veja a implementação da raspagem de dados nesse <a href="https://github.com/GabrielSG20/Projeto_Integrador_3BD-1Sem2021/blob/main/AirPlan/src/main/java/com/airPlan/services/PdfService.java">link!</a>
 
 ###### - Grande Contribuição
