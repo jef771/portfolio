@@ -224,6 +224,7 @@ Fui responsável pela maioria do <b>backend</b>, pela arquitetura MVC, regras de
 - Porém o maior desafio foi a lógica de programação para executar a raspagem de dados dos manuais em formato pdf, usei muito o pacote utils, lógica de programação e conhecimento em estruturas de dados como Listas e Mapas.
 <details>
   <summary markdown="span">Controller</summary>
+	
 ```java
 @Controller
 public class LEPController {
@@ -260,11 +261,12 @@ public class LEPController {
         return "redirect:/lep-create";
     }
 }
-	```
-	</details>
+```
+</details>
 
 <details>
   <summary markdown="span">Repository</summary>
+	
 ```java
 @Repository
 public interface ManualRepository extends JpaRepository<Manual, Integer> {
@@ -278,6 +280,7 @@ public interface ManualRepository extends JpaRepository<Manual, Integer> {
 	
 <details>
   <summary markdown="span">Service</summary>
+	
 ```java
 @Service
 public class LepService
