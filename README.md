@@ -221,7 +221,7 @@ Fui responsável pela maioria do <b>backend</b>, pela arquitetura MVC, regras de
 <br>
 
 ###### - Regras de Serviço
-- Porém o maior desafio foi a lógica de programação para executar a raspagem de dados dos manuais em formato pdf, usei muito o pacote utils, lógica de programação e conhecimento em estruturas de dados como Listas e Mapas.
+- Porém o maior desafio foi a lógica de programação para executar a raspagem de dados dos manuais em formato pdf, usei muito a biblioteca externa <i>itextpdf</i>, lógica de programação e conhecimento em estruturas de dados como Listas e Mapas.
 <details>
   <summary markdown="span">Controller</summary>
 	
