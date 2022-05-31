@@ -65,6 +65,7 @@ Java, MySQL, IDE Eclipse Java
 Fui responsável pelo DAO - Objeto ou classe de acesso a dados, ele que conectava ao banco e fazia as transações -, como a intenção do trabalho era usar Java puro, trabalhei muito com o POO (programação orientada a objetos), lógica de programação, criação de query e JDBC para chegar até as soluções dos problemas.
 
 ###### - <i>DAO</i> e <i>Controller</i>
+- A seguir é possível clicar e ler alguns trechos de código, foi a primeira vez que tive contato com arquitetura MVC, são exemplos concisos de tudo de novo que vi no projeto, MVC, conexão JDBC e comunicação com o frontend!
 
 <details>
   <summary markdown="span">DAO</summary>
@@ -184,11 +185,7 @@ Fui responsável pelo DAO - Objeto ou classe de acesso a dados, ele que conectav
  		}	
  ```
 </details>
-- Nas imagens é possível ver a utilização de uma query para salvar uma entidade enviada do <i>frontend</i> com alguns controles básicos de erros de banco.
-<br>
-<img src="img/controller-dao.png">
-<br>
-
+	
 
 
 #### Hard Skills Efetivamente Desenvolvidas
