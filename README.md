@@ -170,6 +170,15 @@ Java SE 8, MySQL, IDE Eclipse, GitHub, IText, Maven e Framework Springboot
 Fui responsável pela maioria do <b>backend</b>, pela arquitetura MVC, regras de serviço e "raspagem" de dados.
 
 ###### - Arquitetura do Sistema (MVC)
+```
+Projeto
+├── src
+│   ├── main: Domain do sistema, contem services com regras de negócio, entidades, repository e controller
+|  	├── resources: templates da parte web e scripts de migração do banco de dados 
+|── test
+|   ├── unit: componentes do Spring components com regras de negócio.          
+
+```
 <br>
 <img src="img/arquitetura-mvc.png">
 <br>
