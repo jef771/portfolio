@@ -279,7 +279,7 @@ public interface ManualRepository extends JpaRepository<Manual, Integer> {
 </details>
 	
 <details>
-  <summary markdown="span">Service</summary>
+  <summary markdown="span">Service (raspagem de dados!)</summary>
 	
 ```java
 @Service
