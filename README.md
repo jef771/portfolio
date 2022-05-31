@@ -133,7 +133,8 @@ public static Integer save(LightAccount light) {
 		}
 		
 		return result;
-	}```
+	}
+```
 - Nas imagens é possível ver a utilização de uma query para salvar uma entidade enviada do <i>frontend</i> com alguns controles básicos de erros de banco.
 <br>
 <img src="img/controller-dao.png">
