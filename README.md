@@ -1229,6 +1229,7 @@ public class Evento implements Serializable {
     }
 }
 ```
+</details>
 	também podemos observar a utilização do <i>framework</i> <b>Hibernate</b> sendo utilizado no seu modelo <b>JPA</b> para deixar mais simples a comunicação entre o banco de dados e a camada <i>Model</i>. E na imagem 2 e 3 temos um exemplo do mapeamento das diferentes entidades, OneToOne (1-1) no caso referindo-se a um Evento sendo criado por um Usuário e ManyToMany (N-N) sendo uma lista de participantes para esse Evento.
 <br>
 <img src="img/models.png">
