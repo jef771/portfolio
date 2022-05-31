@@ -1107,6 +1107,7 @@ Fiquei encarregado de todo o <i>backend</i> do projeto e, mais tarde, da criaç�
 <br>
 
 ###### - <i>Backend</i>
+- Fiz todo o backend do projeto, controller, model, service e repository, porém o que eu mais desenvolvi foi a qualidade do código.
 - Um exemplo de uma das 3 entidades do programa, podemos ver a utilização da biblioteca <b>Lombok</b> para simplificar e manter o código mais legível eliminando código <i>boilerplate</i> (código recorrente como <i>getters</i> e <i>setters</i>). Também podemos observar a utilização do <i>framework</i> <b>Hibernate</b> sendo utilizado no seu modelo <b>JPA</b> para deixar mais simples a comunicação entre o banco de dados e a camada <i>Model</i>. Também temos exemplos de diversos tipos de mapeamento de entidades.
 <details>
 <summary markdown="span"y>Entidade</summary>
@@ -1235,7 +1236,7 @@ public class Evento implements Serializable {
 - Um exemplo de um dos testes feitos para a aplicação, foi a minha primeira experiência com testes unitários e eles me ajudaram para manter a qualidade do software, além de facilitar o trabalho.
 	
 <details>
-<summary markdown="span">Unit Tests</summary>
+<summary markdown="span">Unit Test</summary>
 	
 ```java
 @SpringBootTest
