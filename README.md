@@ -1231,8 +1231,12 @@ public class Evento implements Serializable {
 ```
 </details>
 
-- Essa foi a minha primeira experiência com testes unitários, importantíssimos para a qualidade do software.
+###### - <i>Unit Test</i>
+- Um exemplo de um dos testes feitos para a aplicação, foi a minha primeira experiência com testes unitários e eles me ajudaram para manter a qualidade do software, além de facilitar o trabalho.
+	
+<details>
 <summary markdown="span">Unit Tests</summary>
+	
 ```java
 @SpringBootTest
 class EventoServiceImplTest {
@@ -1613,13 +1617,6 @@ class EventoServiceImplTest {
     }
 ```
 </details>
-
-<details>
-<summary markdown="span">Testes Unitários</summary>
-</details>
-<br>
-<img src="img/models.png">
-<br>
 
 #### Hard Skills Efetivamente Desenvolvidas
 - <b>JPA</b>
