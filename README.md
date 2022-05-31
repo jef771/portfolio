@@ -65,6 +65,76 @@ Java, MySQL, IDE Eclipse Java
 Fui responsável pelo DAO - Objeto ou classe de acesso a dados, ele que conectava ao banco e fazia as transações -, como a intenção do trabalho era usar Java puro, trabalhei muito com o POO (programação orientada a objetos), lógica de programação, criação de query e JDBC para chegar até as soluções dos problemas.
 
 ###### - <i>DAO</i> e <i>Controller</i>
+
+public static Integer save(LightAccount light) {
+		```java
+		Integer result = 0;
+		String sql = "Insert into LIGHT_ACCOUNT (LIGHT_IDENT_COD, "
+				+ "LIGHT_METER_NUMBER, "
+				+ "LIGHT_INVOICE, "
+				+ "LIGHT_CURRENT_DATE, "
+				+ "LIGHT_DUE_DATE, "
+				+ "LIGHT_CONSUMPTION_DAYS, "
+				+ "LIGHT_FLAG_TYPE, "
+				+ "LIGHT_CONSUMPTION_VALUE, "
+				+ "LIGHT_PIS_PERCENTAGE, "
+				+ "LIGHT_COFINS_PERCENTAGE, "
+				+ "LIGHT_ICMS_BASIS, "
+				+ "LIGHT_ICMS_PERCENTAGE, "
+				+ "LIGHT_ICMS_VALUE, "
+				+ "LIGHT_PIS_COFINS_BASIS, "
+				+ "LIGHT_PIS_VALUE, "
+				+ "LIGHT_COFINS_VALUE, "
+				+ "LIGHT_FORFEIT_VALUE, "
+				+ "LIGHT_INTEREST_VALUE, "
+				+ "LIGHT_OTHER_VALUES, "
+				+ "LIGHT_SUPPLY_VALUES, "
+				+ "LIGHT_FINANCIAL_ITEMS, "
+				+ "LIGHT_AMOUNT, "
+				+ "LIGHT_SUPPLIER_CNPJ,"
+				+ "LIGHT_USER_ID,"
+				+ "LIGHT_ALTER_BY) "
+				+ "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
+		
+		try {
+			BaseConnection con = new BaseConnection();
+			PreparedStatement saveValues = con.connection.prepareStatement(sql);
+			
+			saveValues.setInt(1, light.getIdentCod());
+			saveValues.setInt(2, light.getMeterNumber());
+			saveValues.setString(3, light.getInvoice());
+			saveValues.setString(4, light.getCurrentDate());
+			saveValues.setString(5, light.getDueDate());
+			saveValues.setInt(6, light.getConsumptionDays());
+			saveValues.setString(7, light.getFlagType());
+			saveValues.setBigDecimal(8, light.getConsumptionValue());
+			saveValues.setBigDecimal(9, light.getPisPercentage());
+			saveValues.setBigDecimal(10, light.getCofinsPercentage());
+			saveValues.setBigDecimal(11, light.getIcmsBasis());
+			saveValues.setBigDecimal(12, light.getIcmsPercentage());
+			saveValues.setBigDecimal(13, light.getIcmsValue());
+			saveValues.setBigDecimal(14, light.getPisCofinsBasis());
+			saveValues.setBigDecimal(15, light.getPisValue());
+			saveValues.setBigDecimal(16, light.getCofinsValue());
+			saveValues.setBigDecimal(17, light.getForfeitValue());
+			saveValues.setBigDecimal(18, light.getInterestValue());
+			saveValues.setBigDecimal(19, light.getOtherValues());
+			saveValues.setBigDecimal(20, light.getSupplyValue());
+			saveValues.setBigDecimal(21, light.getFinancialItems());
+			saveValues.setBigDecimal(22, light.getAmount());
+			saveValues.setLong(23, light.getSupplierCnpj());
+			saveValues.setInt(24, light.getCreatedBy());
+			saveValues.setInt(25, light.getAlterBy());
+			
+			result = saveValues.executeUpdate();
+		}
+		catch(SQLException err) {
+			System.out.println(err);
+		}
+		
+		return result;
+	}
+ ```
 - Nas imagens é possível ver a utilização de uma query para salvar uma entidade enviada do <i>frontend</i> com alguns controles básicos de erros de banco.
 <br>
 <img src="img/controller-dao.png">
