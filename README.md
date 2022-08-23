@@ -205,8 +205,8 @@ Esse foi o projeto que mais trabalhei em equipe, ajudando membros do grupo com p
 
 ### Em 2021-1
 Trabalhei no projeto da API com o Parceiro Acadêmico Embraer.<br>
-A Embraer é uma empresa renomada e importantíssima para o Brasil, produzindo aeronaves que são exportadas para dezenas de países e também utilizadas em solo brasileiro. Com o vasto arsenal de aeronaves produzidas a construção e manutenção da documentação da aeronave - que pode chegar a milhares de páginas - torna-se algo difícil, portante procuravam uma solução digital e moderna para varredura e montagem de PDFs e leitura automatizada de Excel.<br>
-O que foi muito marcante nesse projeto foi todo o auxílio que os professores deram, em Hard Sill e Soft Skill.
+A Embraer é uma empresa renomada e importantíssima para o Brasil, produzindo aeronaves que são exportadas para dezenas de países e também utilizadas em solo brasileiro. Com o grande número de aeronaves produzidas, a construção e manutenção da documentação da aeronave - que pode chegar a milhares de páginas - torna-se algo complexo, portanto procuravam uma solução digital e moderna para a varredura e montagem de PDFs e leitura automatizada de Excel.<br>
+O que foi muito marcante nesse projeto foi todo o auxílio que os professores deram, em Hard Skill e Soft Skill.
 [link para GIT](https://github.com/GabrielSG20/Projeto_Integrador_3BD-1Sem2021)
 
 #### Tecnologia Utilizadas
