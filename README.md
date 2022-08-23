@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=a6bf8e&height=300&section=footer&text=Olá,%20sou%20o%20Jeferson&fontSize=90&fontColor=e6f2e6)
+<p align="center"> <img src="img/eu.png" class="center" width=150/> </p>
 
 Estudante de Banco de Dados pela FATEC São José dos Campos, estagiário fullstack em Java e estas são minhas experiências no desenvolvimento da API.
 
