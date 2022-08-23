@@ -7,8 +7,8 @@ Estudante de Banco de Dados pela FATEC São José dos Campos, estagiário fullst
 
 ### Em 2020-1
 Tabalhei no projeto proposto pelos professores das materias focais do primeiro semestre do curso de Banco de Dados, uma assistente virtual guiada por comando de voz.<br>
-Foi dada total liberdade na escolha de tecnologia a ser utilizada no projeto e uma parceira com alunos do sexto semestre foi feita para passarem suas experiências na forma de Scrum Masters.<br>
-Tive muita sorte pois a Ariene foi uma ótima Scrum Master orientando com grande eficácia e praticidade nossa equipe que por muitas vezes desviava do conceito inicial do projeto - tentando adicionar novas tecnologias ou <i>features</i> que não tinhamos conhecimento necessário para implementar.<br>
+Foi dada total liberdade na escolha de tecnologia a ser utilizada no projeto e uma parceria com alunos do sexto semestre, para passarem suas experiências na forma de <i>Scrum Masters</i>.<br>
+Tive muita sorte pois a Ariene foi uma ótima <i>Scrum Master</i>, orientando com grande eficácia e praticidade nossa equipe que por muitas vezes desviava do conceito inicial do projeto - tentando adicionar novas tecnologias ou <i>features</i> que não tinhamos conhecimento necessário para implementar.<br>
 Com toda a liberdade dada - o único ponto não opicional era a implementação de, no mínimo, 5 <i>features</i> - foi interessante testar nossos conhecimentos e quebrar barreiras.<br>
 [link para o GIT](https://github.com/arienemaiara/assistente-voz-viagens)
 
@@ -1083,7 +1083,7 @@ Veja a implementação da raspagem de dados nesse <a href="https://github.com/Ga
 
 #### Soft Skills
 Resiliência e Autonomia<br>
-Todo projeto possui seus gargalos e suas dificuldades porém esse foi marcado pela dificuldade.
+Pela alta complexidade do desafio foi necessário uma grande quantidade de estudo e esforço para superá-lo.
 
 <hr>
 
