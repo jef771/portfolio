@@ -1638,5 +1638,5 @@ class EventoServiceImplTest {
 
 #### Soft Skills
 Organização<br>
-Precisei de muita organização, seja na vida pessoal ou no código - para gerenciar toda a programação do <b>backend</b>.
+Precisei de muita! Seja na vida pessoal ou no código - para gerenciar toda a programação do <b>backend</b>.
 
