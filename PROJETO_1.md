@@ -31,7 +31,6 @@ Fui responsável pelo UI-UX, desenvolvimento das páginas e a produção de algu
 - Mapa, função simples que usava o javaScript para mostrar o destino falado pelo usuário, documento, outra função simples para abrir uma página contendo os documentos necessários para voos nacionais e internacionais, posição, usava uma api do google para mostrar a posição do usuário no google Maps, trajeto, uma função um pouco mais complexa, mostrava o trajeto que o usuário pedia por exemplo: "São Paulo para Rio de Janeiro".
 
 #### Hard Skills Efetivamente Desenvolvidas
-HTML, Javascript, CSS e Git Flow
 
 - [x] <b>HTML e CSS</b>
     - Fiz todo o trabalho de design de UI/UX e a implementei
