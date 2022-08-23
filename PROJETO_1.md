@@ -35,10 +35,13 @@ HTML, Javascript, CSS e Git Flow
 
 - [x] <b>HTML e CSS</b>
     - Fiz todo o trabalho de design de UI/UX e a implementei
+    - Sei fazer com autonomia
 - [x] <b>javaScript</b>
     - Foi necessário aprender o básico para executar as tarefas de <b>backend</b> para as funções da tela
+    - Sei fazer com ajuda
 - [x] <b>Git Flow</b>
     - Quem diria que algo que eu aprendi no primeiro semestre iria ajudar tanto na minha carreira! Aprendizado de Git e Git Flow foi importantíssimo!
+    - Sei fazer com autonomia
 
 #### Soft Skills Efetivamente Desenvolvidas
 - [x] Proatividade<br>
