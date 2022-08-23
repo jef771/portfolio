@@ -1072,7 +1072,7 @@ Veja a implementação da raspagem de dados nesse <a href="https://github.com/Ga
 
 #### Hard Skills Efetivamente Desenvolvidas
 - <b>JPA</b>
-    - Primeira contato com essa api extremamente utilizada no mercado de trabalho Java.
+    - Primeiro contato com essa api extremamente utilizada no mercado de trabalho Java.
 - Uso de arquitetura <b>MVC</b>
     - Como o projeto foi mudando ao longo das sprints á arquitetura MVC ajudou muito para integração do código e adição de novas <i>features</i>
 - Uso de bibliotecas externas como IText
