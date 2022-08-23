@@ -44,5 +44,5 @@ Fui responsável pelo UI-UX, desenvolvimento das páginas e a produção de algu
 
 #### Soft Skills Efetivamente Desenvolvidas
 - [x] Proatividade<br>
-    - Em muitos momentos precisei procurar o conhecimento, seja em vídeos de youtube, livros ou cursos, para conseguir desenvolver as <i>features</i>, design e <i>frontend</i>i>. 
+    - Em muitos momentos precisei procurar o conhecimento, seja em vídeos de youtube, livros ou cursos, para conseguir desenvolver as <i>features</i>, design e <i>frontend</i>. 
 - [x] Confiança<br>
