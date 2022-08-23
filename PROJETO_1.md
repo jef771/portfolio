@@ -33,13 +33,14 @@ Fui responsável pelo UI-UX, desenvolvimento das páginas e a produção de algu
 #### Hard Skills Efetivamente Desenvolvidas
 HTML, Javascript, CSS e Git Flow
 
-- <b>HTML e CSS</b>
+- [x] <b>HTML e CSS</b>
     - Fiz todo o trabalho de design de UI/UX e a implementei
-- <b>javaScript</b>
+- [x] <b>javaScript</b>
     - Foi necessário aprender o básico para executar as tarefas de <b>backend</b> para as funções da tela
-- <b>Git Flow</b>
+- [x] <b>Git Flow</b>
     - Quem diria que algo que eu aprendi no primeiro semestre iria ajudar tanto na minha carreira! Aprendizado de Git e Git Flow foi importantíssimo!
 
 #### Soft Skills Efetivamente Desenvolvidas
-Proatividade<br>
-Em muitos momentos precisei procurar o conhecimento, seja em vídeos de youtube, livros ou cursos, para conseguir desenvolver as <i>features</i>, design e <i>frontend</i>i>. 
+- [x] Proatividade<br>
+    - Em muitos momentos precisei procurar o conhecimento, seja em vídeos de youtube, livros ou cursos, para conseguir desenvolver as <i>features</i>, design e <i>frontend</i>i>. 
+- [x] Confiança<br>
