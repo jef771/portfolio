@@ -37,7 +37,7 @@ Fui responsável pelo UI-UX, desenvolvimento das páginas e a produção de algu
 HTML, Javascript, CSS e Git Flow
 
 - <b>HTML e CSS</b>
-    - Fiz toda a ui e ux do api e a implementei
+    - Fiz todo o trabalho de design de UI/UX e a implementei
 - <b>javaScript</b>
     - Foi necessário aprender o básico para executar as tarefas de <b>backend</b> para as funções da tela
 - <b>Git Flow</b>
