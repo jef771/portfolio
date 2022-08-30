@@ -882,8 +882,9 @@ Veja a implementação da raspagem de dados nesse <a href="https://github.com/Ga
 - [x] Implementação de exceptions
     - Algo extremamente importante para tornar-se um bom programador
     - Sei fazer com autonomia
-- <b>Spring boot</b>
-
+- [x] <b>Spring boot</b>
+    - Sei fazer com autonomia
+	
 #### Soft Skills
 - [x] Resiliência e Autonomia<br>
     - Pela alta complexidade do desafio foi necessário uma grande quantidade de estudo e esforço para superá-lo.
