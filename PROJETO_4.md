@@ -558,6 +558,8 @@ class EventoServiceImplTest {
 - [x] Envio de emails
     - Finalmente descobri como funciona!
     - Sei fazer com ajuda
+- [x] Teste Unitário
+    - Sei fazer com ajuda
 
 #### Soft Skills
 - [x] Organização<br>
