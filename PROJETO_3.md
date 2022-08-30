@@ -1,4 +1,4 @@
-﻿<p align="center"> <img src="img/logo_airplan.jpeg" class="center" width=150/> </p>
+﻿<p align="center"> <img src="img/logo_airplan.jpg" class="center" width=150/> </p>
 <h2 align="center">
 AirPlan
 </h2>
