@@ -1,6 +1,6 @@
 <p align="center"> <img src="img/eu.png" class="center" width=350/> </p>
 
-Estudante de Banco de Dados pela FATEC São José dos Campos, estagiário fullstack em Java e estas são minhas experiências no desenvolvimento da API.
+Estudante de Banco de Dados pela FATEC São José dos Campos, Java Junior Developer e futuro Data Engineer e estas são minhas experiências no desenvolvimento da API.
 
 # Meus Projetos
 <hr>
