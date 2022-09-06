@@ -156,6 +156,7 @@ Fui responsável pelo DAO - Objeto ou classe de acesso a dados, ele que conectav
 #### Soft Skills Efetivamente Desenvolvidas
 - [x] Trabalho em equipe<br>
     - Esse foi o projeto que mais trabalhei em equipe, ajudando membros do grupo com problemas no desenvolvimento.
-- [x] Proatividade
+- [x] Tomada de decisão<br>
+    - Precisei tomar a decisão de mudar de grupo na segunda <i>sprint</i>.
 
 <hr>
