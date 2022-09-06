@@ -886,5 +886,7 @@ Veja a implementação da raspagem de dados nesse <a href="https://github.com/Ga
     - Sei fazer com autonomia
 	
 #### Soft Skills
-- [x] Resiliência e Autonomia<br>
+- [x] Resiliência<br>
     - Pela alta complexidade do desafio foi necessário uma grande quantidade de estudo e esforço para superá-lo.
+- [x] Autonomia<br>
+    - Precisei procurar e aprender novas tecnologias para poder executar minhas tarefas
