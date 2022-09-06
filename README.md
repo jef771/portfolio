@@ -37,4 +37,12 @@ Estudante de Banco de Dados pela FATEC São José dos Campos, Java Junior Develo
 [####################################################################................................68%]
 ```
 
+### Em 2022-1
+[SAS - Score Analysis ](https://github.com/jef771/portfolio/blob/main/PROJETO_5.md)
+- Desafio proposto pela empresa e parceira acadêmica SPC, uma aplicação web para organização, gestão e visualização de dados para auxiliar na tomada de decisões financeiras e operacionais.
+
+```
+[#####################################################################################...............85%]
+```
+
 
