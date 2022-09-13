@@ -4,7 +4,7 @@ Endurance
 </h2>
 
 Trabalhei no projeto da API com o Parceiro Acadêmio Oracle.<br>
-A Oracle é uma empresa renomada e importatíssima para o mercado tecnicologico, sempre com novas soluções para banco de dados, seja em IA ou nuvem. Essas soluções precisam ser discutidas e apresentadas por isso a Oracle Brasil possui um espaço especial para isso, a Casa Oracle.<br>
+A Oracle é uma empresa renomada e importatíssima para o mercado tecnicologico, sempre com novas soluções para banco de dados, seja em IA ou nuvem. Essas soluções precisam ser discutidas e apresentadas, por isso a Oracle Brasil possui um espaço especial para esse proposito, a Casa Oracle.<br>
 Com a vasta utilização da Casa Oracle a empresa precisou de um software para gestão de reuniões, participantes e palestrantes.<br>
 Esse projeto foi caracterizado pela simplicidade porém muito marcante para o mercado de trabalho pois pedia soluções bastante utilizadas no mercado tecnicologico.<br>
 [link para GIT](https://github.com/MaXximiles/API-4SEM)
@@ -14,7 +14,7 @@ Esse projeto foi caracterizado pela simplicidade porém muito marcante para o me
 Java SE 14, GitHub, Framework Springboot, Oracle Autonomous Database , Angular e Maven.
 
 #### Contribuições Pessoais
-Fiquei encarregado de todo o <i>backend</i> do projeto e, mais tarde, da criação do banco de dados. A arquitetura que eu escolhi foi a MVC, pois, apesar de ser uma arquitetura mais antiga, ainda é muito utilizada no mercado de trabalho - pois funciona! -, desso modo trazendo um aprendizado efetivo para o meu desenvolvimento, adequa-se muito bem às soluções propostas para o problema e requer menos <i>resources</i> da parte do estudante - em uma arquitetura de micro serviços por exemplo seria difícil encontrar uma maneira de hospedar pelos menos 5 <i>end-points</i> sem pagar nada - pois, sendo estruturada de maneira monolitica, requer apenas uma hospedagem. Também optei pelo padrão <i>facade</i> ou seja, o cliente faz requisições (em JSON) para o programa portanto o <b>springboot</b> também foi o mais adequado.
+Fiquei encarregado de todo o <i>backend</i> do projeto e de parte da criação do banco de dados. A arquitetura que eu escolhi foi a MVC, pois, apesar de ser uma arquitetura mais antiga, ainda é muito utilizada no mercado de trabalho, pela sua facilidade de prototipação e menor alocação de resources, desso modo trazendo um desenvolvimento mais simples, porém o principal motivo pela escolha da arquitetura é que ela adequa-se muito bem às soluções propostas para o problema e requer menos. Também optei pelo padrão <i>facade</i> ou seja, o cliente faz requisições (em JSON) para o programa portanto o <b>Spring Boot</b> também foi o mais adequado.
 ###### - Arquitetura do Sistema
 - Uma visão geral da arquitetura do programa. Já que na parte <i>View</i> foi utilizado um <i>framework</i> de <i>frontend</i> (Angular) o <i>backend</i> ficou encarregado da parte <i>Model</i> e <i>Controller</i> e outros pacotes interessantes para o projeto como <i>exception</i> para um melhor controle do fluxo do programa e <i>constant</i> para deixar o código mais legível.
 <br>
@@ -25,6 +25,9 @@ Fiquei encarregado de todo o <i>backend</i> do projeto e, mais tarde, da criaç�
 - Fiz todo o backend do projeto, controller, model, service e repository, porém o que eu mais desenvolvi foi a qualidade do código.
 - Abaixo é possível clicar e visualizar um exemplo de uma das 3 entidades do código fonte. Podemos ver a utilização da biblioteca <b>Lombok</b> para simplificar e manter o código mais legível eliminando código <i>boilerplate</i> (código recorrente como <i>getters</i> e <i>setters</i>). Também podemos observar a utilização do <i>framework</i> <b>Hibernate</b> sendo utilizado no seu modelo <b>JPA</b> para abstrair e deixar mais simples a comunicação entre o banco de dados e a camada <i>Model</i>. Também temos exemplos de diversos tipos de mapeamento de entidades.
 <details>
+	
+###### - <i>Entity</i>
+- Um exemplo de uma <i>entity</i>, classe para mapear a tabela do banco de dados. Como trabalhei com Spring Boot utilizei anotações para fazer o mapeamento, utilizando o JPA para a comunicação com o banco de dados.
 <summary markdown="span"y>Entidade</summary>
 
 ```java
@@ -372,7 +375,8 @@ class EventoServiceImplTest {
                 exc.getMessage());
 
     }
-
+    
+    // Teste para Validação de data de início deve ser antes da data final do Evento cadastrado na casa Oracle
     @Test
     @DisplayName("Add Evento com inicio > final == Exception")
     void whenInicioAfterFinal_ShouldThrowExc() {
