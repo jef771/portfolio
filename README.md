@@ -9,7 +9,7 @@ Estudante de Banco de Dados pela FATEC São José dos Campos, Java Junior Develo
 - Projeto proposto pelos professores das materias focais do primeiro semestre do curso de Banco de Dados, uma assistente virtual guiada por comando de voz.
 
 ```
-[#################...................................................................................17%]
+[########...........................................16%]
 ```
 
 
@@ -18,7 +18,7 @@ Estudante de Banco de Dados pela FATEC São José dos Campos, Java Junior Develo
 - Projeto com a empresa, parceira acadêmica, TecSus, uma ferramenta Desktop para digitalizar e padronizar um grande volume de contas básicas.
 
 ```
-[##################################..................................................................34%]
+[################.................................34%]
 ```
 
 ### Em 2021-1
@@ -26,7 +26,7 @@ Estudante de Banco de Dados pela FATEC São José dos Campos, Java Junior Develo
 - Projeto proposto pela parceira acadêmica Embraer, uma aplicação web para leitura automática de Excel e varredura e montagem de PDFs para auxiliar na estruturação de novos manuais para aeronaves.
 
 ```
-[###################################################.................................................51%]
+[########################.........................50%]
 ```
 
 ### Em 2021-2
@@ -34,7 +34,7 @@ Estudante de Banco de Dados pela FATEC São José dos Campos, Java Junior Develo
 - Projeto com a empresa e parceira acadêmica Oracle, uma aplicação web para agendamento de palestras, reuniões e eventos na [Casa Oracle](https://blogs.oracle.com/oracle-brasil/post/casa-oracle-abre-as-portas-para-a-inovacao-em-sao-paulo).
 
 ```
-[####################################################################................................68%]
+[################################.................66%]
 ```
 
 ### Em 2022-1
@@ -42,7 +42,7 @@ Estudante de Banco de Dados pela FATEC São José dos Campos, Java Junior Develo
 - Desafio proposto pela empresa e parceira acadêmica SPC, uma aplicação web para organização, gestão e visualização de dados para auxiliar na tomada de decisões financeiras e operacionais.
 
 ```
-[#####################################################################################...............85%]
+[########################################.........82%]
 ```
 
 
