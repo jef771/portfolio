@@ -20,6 +20,7 @@ Fui responsável pela maioria do <b>backend</b>, pela arquitetura MVC, regras de
 ###### - Arquitetura do Sistema (MVC)
 <img src="img/arquitetura-mvc.png">
 - É possível verificar exemplos de Controller (onde é feita a comunicação entre <i>front</i> e <i>back</i>), Repository (camada de comunicação entre <i>back</i> e banco de dados) e Service (camada de lógica da aplicação, no caso: raspagem de dados).
+<br>
 
 <details>
   <summary markdown="span">Controller</summary>
