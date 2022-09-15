@@ -200,7 +200,7 @@ public class LepService
 
 #### Hard Skills Efetivamente Desenvolvidas
 - [x] <b>JPA</b>
-    - Primeiro contato com essa api extremamente utilizada no mercado de trabalho Java.
+    - Primeiro contato com essa api extremamente utilizada no mercado de trabalho Java, abstrai a comunicação entre <i>back</i> e banco de dados de forma intuitiva.
     - Sei fazer com autonomia
 - [x] Uso de arquitetura <b>MVC</b>
     - Como o projeto foi mudando ao longo das sprints á arquitetura MVC ajudou muito para integração do código e adição de novas <i>features</i>
@@ -209,13 +209,16 @@ public class LepService
     - O pronto focal do projeto era a "raspagem" de dados dos manuais portanto o uso dessa api externa foi essêncial para a finalização do projeto, assim percebi que como desenvolvedor não preciso criar tudo do zero, posso aprender a utilizar apis e ferramentas já sólidas na comunidade.
     - Sei fazer com ajuda
 - [x] Implementação de exceptions
-    - Algo extremamente importante para tornar-se um bom programador
+    - Algo extremamente importante para tornar-se um bom programador.
     - Sei fazer com autonomia
 - [x] <b>Spring boot</b>
+    - Framework completo e muito utilizado no mercado de trabalho Java, de fácil configuração e facilidade de boot já que usa servidor acoplado.].
     - Sei fazer com autonomia
 	
 #### Soft Skills
 - [x] Resiliência<br>
     - Pela alta complexidade do desafio foi necessário uma grande quantidade de estudo e esforço para superá-lo.
 - [x] Autonomia<br>
-    - Precisei procurar e aprender novas tecnologias para poder executar minhas tarefas
+    - Precisei procurar e aprender novas tecnologias para poder executar minhas tarefas.
+- [x] Criatividade<br>
+    - Não foi fácil fazer a raspagem de dados já que o cliente não fez a documentação pensando no processo então foi preciso muita criatividade para encontrar pontos iguais em todos os arquivos pdf.
