@@ -160,6 +160,6 @@ Fui responsável pelo DAO - Objeto ou classe de acesso a dados, ele que conectav
 - [x] Tomada de decisão<br>
     - Precisei tomar a decisão de mudar de grupo na segunda <i>sprint</i>.
 - [x] Comunicação<br>
-    - Passei por momentos difíceis nesse API e me comunicar com o time foi fudamental para manter a boa relação com todos.
+    - Passei por momentos difíceis nessa API e me comunicar com o time foi fudamental para manter a boa relação com todos.
 
 <hr>
