@@ -144,7 +144,8 @@ Fui responsável pelo DAO - Objeto ou classe de acesso a dados, ele que conectav
 - [x] <b>Java</b>
     - Nesse projeto que um dos requisitos dos professores era a utilização do Java puro pude treinar o uso de pacotes do jdk como utils e lang.
     - Sei fazer com autonomia
-- [x] Lógica de Programação
+- [x] POO
+    - Trabalhei com programação orientada a objetos o encapsulamento foi muito utilizado nesse projeto, encapsulando cada camada em seu determinado pacote
     - Sei fazer com autonomia
 - [x] <b>JDBC</b>
     - Para comunicação entre <b>backend</b> e banco de dados.
@@ -158,5 +159,7 @@ Fui responsável pelo DAO - Objeto ou classe de acesso a dados, ele que conectav
     - Esse foi o projeto que mais trabalhei em equipe, ajudando membros do grupo com problemas no desenvolvimento.
 - [x] Tomada de decisão<br>
     - Precisei tomar a decisão de mudar de grupo na segunda <i>sprint</i>.
+- [x] Comunicação<br>
+    - Passei por momentos difíceis nesse API e me comunicar com o time foi fudamental para manter a boa relação com todos.
 
 <hr>
