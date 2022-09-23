@@ -22,7 +22,6 @@ Fui responsável pela maioria do <b>backend</b>, pela arquitetura MVC, regras de
 - É possível verificar exemplos de Controller (onde é feita a comunicação entre <i>front</i> e <i>back</i>), Repository (camada de comunicação entre <i>back</i> e banco de dados) e Service (camada de lógica da aplicação, no caso: raspagem de dados).
 <br>
 <br>
-
 <i>Controller</i> da LEP, parte do sistema que recebia dados via excel
 <details>
   <summary markdown="span">Controller</summary>
@@ -67,7 +66,6 @@ public class LEPController {
 </details>
 <br>
 <br>
-
 Esse <i>repository</i> faz a conexão entre o <i>backend</i> e banco de dados, procurando manual pelo nome e checando quantos manuais existem com o nome informado
 <details>
   <summary markdown="span">Repository</summary>
@@ -84,7 +82,6 @@ public interface ManualRepository extends JpaRepository<Manual, Integer> {
 </details>
 <br>
 <br>
-
 O <i>service</i> da principal funcionalidade do projeto, raspagem de dados dos arquivos pdfs dos manuais.
 <details>
   <summary markdown="span">Service (raspagem de dados!)</summary>
@@ -225,4 +222,4 @@ public class LepService
     - Sei fazer com autonomia
 	
 #### Soft Skills
-- Esse projeto teve uma complexidade muito alta, principalmente para o momento do curso, porém com <b>resiliência</b> consegui, com <b>autonomia</b> estudar e aprender o que era necessário para desenvolver. Porém nem sempre força de vontade resolve, precisei ser <b>criativo</b> para resolver algumas questões da implementação, como era raspagem de dados nem sempre o usuário seguia um padrão caindo sobre minha <b>responsabilidade</b> achar esse padrão novo, foi necessária uma boa dose de <b>paciência</b> para achar esse padrão e também para compreender ações da minha equipe.
+Esse projeto teve uma complexidade muito alta, principalmente para o momento do curso, porém com <b>resiliência</b> consegui, com <b>autonomia</b> estudar e aprender o que era necessário para desenvolver. Porém nem sempre força de vontade resolve, precisei ser <b>criativo</b> para resolver algumas questões da implementação, como era raspagem de dados nem sempre o usuário seguia um padrão caindo sobre minha <b>responsabilidade</b> achar esse padrão novo, foi necessária uma boa dose de <b>paciência</b> para achar esse padrão e também para compreender ações da minha equipe.
