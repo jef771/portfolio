@@ -18,9 +18,10 @@ Fui responsável pelo DAO - Objeto ou classe de acesso a dados, ele que conectav
 
 ###### - <i>DAO</i> e <i>Controller</i>
 - A seguir é possível clicar e ler alguns trechos de código, foi a primeira vez que tive contato com arquitetura MVC - <i>Model</i>, <i>Controller</i> e <i>View</i>-, são exemplos concisos de tudo de novo que vi no projeto, camada DAO - conexão entre <i>backend</i> e banco de dados-, e comunicação com o frontend o <i>Controller</i>.
-- No trecho de código do <i>DAO</i> é verificado uma inserção no banco de dados da conta de luz.
-- No <i>Controller</i> é possível ver a comunicação entre o front com o <i>DAO</i>.
+<br>
+<br>
 
+Uma inserção no banco de dados da conta de luz.
 <details>
   <summary markdown="span">DAO</summary>
 
@@ -97,7 +98,10 @@ Fui responsável pelo DAO - Objeto ou classe de acesso a dados, ele que conectav
 	}		
  ```
 </details>
+<br>
+<br>
 
+Comunicação entre o front com o <i>DAO</i>.
 <details>
   <summary markdown="span">Controller</summary>
 
@@ -144,7 +148,7 @@ Fui responsável pelo DAO - Objeto ou classe de acesso a dados, ele que conectav
 
 #### Hard Skills Efetivamente Desenvolvidas
 - [x] <b>Java</b>
-    - Nesse projeto que um dos requisitos dos professores era a utilização do Java puro pude treinar o uso de pacotes do jdk como utils e lang.
+    - Nesse projeto, que um dos requisitos dos professores era a utilização do Java puro, pude treinar o uso de pacotes do jdk como utils e lang.
     - Sei fazer com autonomia
 - [x] POO
     - Trabalhei com programação orientada a objetos o encapsulamento foi muito utilizado nesse projeto, encapsulando cada camada em seu determinado pacote
@@ -157,11 +161,4 @@ Fui responsável pelo DAO - Objeto ou classe de acesso a dados, ele que conectav
     - Sei fazer com ajuda
 
 #### Soft Skills Efetivamente Desenvolvidas
-- [x] Trabalho em equipe<br>
-    - Esse foi o projeto que mais trabalhei em equipe, ajudando membros do grupo com problemas no desenvolvimento.
-- [x] Tomada de decisão<br>
-    - Precisei tomar a decisão de mudar de grupo na segunda <i>sprint</i>.
-- [x] Comunicação<br>
-    - Passei por momentos difíceis nessa API e me comunicar com o time foi fudamental para manter a boa relação com todos.
-
-<hr>
+- O começo desse projeto foi conturbado, precisei <b>tomar a decisão</b> de sair do meu primeiro devido a grande carga de trabalho que eu estava lidando. Foi uma boa decisão já que no segundo grupo <b>trabalhei</b> muito bem em <b>equipe</b> e acabei ajudando os membros da minha equipe de forma decisiva, principalmente na parte de lógica de programação, mas também precisei da ajuda deles! Precisei entregar menos cards logo na última <i>sprint</i> devido a problemas pessoais, uma boa <b>comunicação</b> entre todos foi importante para manter uma boa relação entre todos do grupo.
