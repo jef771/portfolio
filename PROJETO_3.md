@@ -5,7 +5,7 @@ AirPlan
 
 Trabalhei no projeto da API com o Parceiro Acadêmico Embraer.<br>
 A Embraer é uma empresa renomada e importantíssima para o Brasil, produzindo aeronaves que são exportadas para dezenas de países e também utilizadas em solo brasileiro. Com o grande número de aeronaves produzidas, a construção e manutenção da documentação da aeronave - que pode chegar a milhares de páginas - torna-se algo complexo, portanto procuravam uma solução digital e moderna para a varredura e montagem de PDFs e leitura automatizada de Excel.<br>
-O que foi muito marcante nesse projeto foi todo o auxílio que os professores deram, em Hard Skill e Soft Skill.
+
 [link para GIT](https://github.com/GabrielSG20/Projeto_Integrador_3BD-1Sem2021)
 
 #### Tecnologia Utilizadas
@@ -222,4 +222,5 @@ public class LepService
     - Sei fazer com autonomia
 	
 #### Soft Skills
-Esse projeto teve uma complexidade muito alta, principalmente para o momento do curso, porém com <b>resiliência</b> consegui, com <b>autonomia</b> estudar e aprender o que era necessário para desenvolver. Porém nem sempre força de vontade resolve, precisei ser <b>criativo</b> para resolver algumas questões da implementação, como era raspagem de dados nem sempre o usuário seguia um padrão caindo sobre minha <b>responsabilidade</b> achar esse padrão novo, foi necessária uma boa dose de <b>paciência</b> para achar esse padrão e também para compreender ações da minha equipe.
+Esse projeto teve uma complexidade muito alta, principalmente para o momento do curso, porém, tendo a <b>resiliência</b> adquirida em outros projetos consegui, com <b>autonomia</b>, estudar e aprender o que era necessário para desenvolver o projeto. Porém nem sempre força de vontade resolve, precisei ser <b>criativo</b> para resolver algumas questões da implementação e contei com a ajuda dos professores em questões de hard skills e soft skills <b>comunicando</b> minhas dificuldades em certos aspectos do projeto. 
+Outro ponto interessante foi na raspagem de dados, como nem sempre o usuário seguia um padrão de digitação foi minha <b>responsabilidade</b> achar esse padrão inusitado, foi necessária uma boa dose de <b>paciência</b> para encontrá-lo.
