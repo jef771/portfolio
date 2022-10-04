@@ -207,19 +207,19 @@ public class LepService
 #### Hard Skills Efetivamente Desenvolvidas
 - [x] <b>JPA</b>
     - Primeiro contato com essa api extremamente utilizada no mercado de trabalho Java, abstrai a comunicação entre <i>back</i> e banco de dados de forma intuitiva.
-    - Sei fazer com autonomia
+    - Sei fazer com autonomia.
 - [x] Uso de arquitetura <b>MVC</b>
-    - Como o projeto foi mudando ao longo das sprints á arquitetura MVC ajudou muito para integração do código e adição de novas <i>features</i>
-    - Sei fazer com autonomia
+    - Como o projeto foi mudando ao longo das sprints á arquitetura MVC ajudou muito para integração do código e adição de novas <i>features</i>.
+    - Sei fazer com autonomia.
 - [x] Uso de bibliotecas externas como IText
     - O pronto focal do projeto era a "raspagem" de dados dos manuais portanto o uso dessa api externa foi essêncial para a finalização do projeto, assim percebi que como desenvolvedor não preciso criar tudo do zero, posso aprender a utilizar apis e ferramentas já sólidas na comunidade.
-    - Sei fazer com ajuda
+    - Sei fazer com ajuda.
 - [x] Implementação de exceptions
     - Algo extremamente importante para tornar-se um bom programador.
-    - Sei fazer com autonomia
+    - Sei fazer com autonomia.
 - [x] <b>Spring boot</b>
-    - Framework completo e muito utilizado no mercado de trabalho Java, de fácil configuração e facilidade de boot já que usa servidor acoplado.].
-    - Sei fazer com autonomia
+    - Framework completo e muito utilizado no mercado de trabalho Java, de fácil configuração e facilidade de boot já que usa servidor acoplado.
+    - Sei fazer com autonomia.
 	
 #### Soft Skills
 Esse projeto teve uma complexidade muito alta, principalmente para o momento do curso, porém, tendo a <b>resiliência</b> adquirida em outros projetos consegui, com <b>autonomia</b>, estudar e aprender o que era necessário para desenvolver o projeto. Porém nem sempre força de vontade resolve, precisei ser <b>criativo</b> para resolver algumas questões da implementação e contei com a ajuda dos professores em questões de hard skills e soft skills <b>comunicando</b> minhas dificuldades em certos aspectos do projeto. 
