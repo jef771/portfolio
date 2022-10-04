@@ -206,10 +206,10 @@ public class LepService
 
 #### Hard Skills Efetivamente Desenvolvidas
 - [x] <b>JPA</b>
-    - Primeiro contato com essa api extremamente utilizada no mercado de trabalho Java, abstrai a comunicação entre <i>back</i> e banco de dados de forma intuitiva.
+	- Primeiro contato com essa <i>API</i> extremamente utilizada no mercado de trabalho Java, abstrai a comunicação entre <i>back</i> e banco de dados de forma intuitiva.
     - Sei fazer com autonomia.
 - [x] Uso de arquitetura <b>MVC</b>
-    - Como o projeto foi mudando ao longo das sprints á arquitetura MVC ajudou muito para integração do código e adição de novas <i>features</i>.
+	- Como o projeto foi mudando ao longo das <i>sprints</i> a arquitetura MVC ajudou muito para integração do código e adição de novas <i>features</i>.
     - Sei fazer com autonomia.
 - [x] Uso de bibliotecas externas como IText
     - O pronto focal do projeto era a "raspagem" de dados dos manuais portanto o uso dessa api externa foi essêncial para a finalização do projeto, assim percebi que como desenvolvedor não preciso criar tudo do zero, posso aprender a utilizar apis e ferramentas já sólidas na comunidade.
