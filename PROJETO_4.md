@@ -4,7 +4,7 @@ Endurance
 </h2>
 
 Trabalhei no projeto da API com o Parceiro Acadêmio Oracle.<br>
-A Oracle é uma empresa renomada e importatíssima para o mercado trazendo sempre com novas soluções para banco de dados, seja em IA ou nuvem. Essas soluções precisam ser discutidas e apresentadas, destarte, a Oracle Brasil possui um espaço especial para esse proposito, a Casa Oracle.<br>
+A Oracle é uma empresa renomada e importatíssima para o mercado trazendo sempre com novas soluções para banco de dados, seja em IA ou nuvem. Essas soluções precisam ser discutidas e apresentadas, por conseguinte, a Oracle Brasil possui um espaço especial para esse proposito, a Casa Oracle.<br>
 Com grande demanda, a empresa precisou de um software para gestão de reuniões, participantes e palestrantes.<br>
 Esse projeto foi caracterizado pela simplicidade, porém muito marcante para o mercado de trabalho, pois pedia soluções utilizadas no mercado tecnicologico.<br>
 [link para GIT](https://github.com/MaXximiles/API-4SEM)
