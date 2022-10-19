@@ -1,4 +1,4 @@
-﻿<p align="center"> <img src="img/logo_sas.png" class="center" width=200/> </p>
+﻿<p align="center"> <img src="https://github.com/API-5-SEMESTRE/documentacao/blob/main/logo/logo.jpeg?raw=true" class="center" width=200/> </p>
 <h2 align="center">
 Sas - Score Analysis
 </h2>
