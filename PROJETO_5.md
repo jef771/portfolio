@@ -20,7 +20,7 @@ A SPC é uma empresa famosa no Brasil que já participou de outros projetos com 
 - Vue
     - Frontend
 - Maven
-    - 
+    - Automação da compilação do projeto
 - Docker
     - Conteinerização do projeto
 - GitHub Actions
@@ -480,9 +480,4 @@ class TransformarDadosServiceImplTest {
     - Sei fazer com ajuda
 
 #### Soft Skills
-- [x] Organização<br>
-    - Precisei de muita! Seja na vida pessoal ou no código - para gerenciar toda a programação do <b>backend</b>.
-- [x] Trabalho em Equipe<br>
-    - Como o Frontend e Backend foram separados nessa api, foi necessário muito trabalho em equipe para os dois funcionarem de maneira correta.
-- [x] Empatia<br>
-    - Alguns membros do time tiveram vários problemas durante o semestre então precisei entender os seus motivos e executar alguns trabalhos fora do meu escopo.
+- Precisei de muita <b>organização</b> nesse projeto, seja na vida pessoal ou no código - para <b>gerenciar</b> toda a programação do <b>backend</b>. O projeto foi separado entre <i>frontend</i> e <i>backend</i> foi necessário muito <b>trabalho em equipe</b> para a comunicação das duas partes funcionar de maneira adequada, a <b>empatia</b> também foi essencial já que alguns membros do time tiveram vários problemas durante o semestre, precisei entender os seus motivos e executar alguns trabalhos fora do meu escopo.
