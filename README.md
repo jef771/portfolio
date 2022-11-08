@@ -45,4 +45,11 @@ Estudante de Banco de Dados pela FATEC São José dos Campos, Java Junior Develo
 [########################################.........82%]
 ```
 
+### Em 2022-2
+[CATE - Collect Analyze Treatment Exhibition  ](https://github.com/jef771/portfolio/blob/main/PROJETO_6.md)
+- Desafio proposto pela empresa e parceira acadêmica Dom Rock, um sistema que engloba o processo de <i>etl</i> que proporciona uma melhor visualização de dados já transformados em informações limpas possibilitando um melhor gerenciamento, uma maior integridade, segurança e privacidade dessas informações.
+
+```
+[#################################################100%]
+```
 
