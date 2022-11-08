@@ -24,9 +24,9 @@ A Dom Rock é uma empresa que proporciona ao cliente, por meio de análise de da
 #### Contribuições Pessoais
 Fiquei encarregado do <i>etl</i> (<i>Extract, transform, load</i>) em python, do log para capturar informações pertinentes ao processo de <i>etl</i> (como dados importantes faltantes ou erro no processo) e do script da nossa <i>Data Warehouse</i> onde o resultado final de todo o processo de <i>etl</i> foi armazenado.
 ###### - Arquitetura do Sistema
-- Uma visão geral da arquitetura do programa. Seguindo o que foi visto no projeto Endurance.
+- Uma visão geral da arquitetura do programa.
 <br>
-<img src="img/MVC2.png">
+<img src="img/ARQP.png">
 <br>
 
 ###### - <i>ETL</i>
@@ -95,7 +95,7 @@ def save_faturas(fatura):
 ```
 </details>
 
-###### - <i>Opções ao executra o script</i>
+###### - <i>Opções ao executa o script</i>
 - Como o script foi feito para ser executado via linha de comando, achei pertinente incluir opções para a execução, como a opção -q (<i>quiet</i>) para omitir algumas partes do log ou -v (<i>verbose</i>) para mostrar todo o processo do log no terminal. Também foi adicionado 3 opções, bronze, silver ou gold, para o usuário escolher qual processo ele deseja executar.
 - Abaixo é possível clicar e visualizar o script para opções do processo.
 <details>
@@ -114,7 +114,6 @@ args = parser.parse_args()
 </details>
 
 ###### - Script da <i>Data Warehouse</i>
-- Um exemplo de um dos testes feitos para a aplicação, agora com um pouco de experiência obtida do último projeto
 
 <details>
 <summary markdown="span">Unit Test</summary>
