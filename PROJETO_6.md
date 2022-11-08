@@ -4,8 +4,8 @@ CATE - Collect Analyze Treatment Exhibition
 </h2>
 
 Trabalhei na solução para o desafio proposto pela parceira acadêmica Dom Rock.<br>
-A Dom Rock é uma empresa que ajuda o cliente, por meio de análise de dados, a potencializar estratégias comerciais e melhorar a eficiência de mercado. O desafio proposto pela Dom Rock - O cliente gerencia um sistema de gestão de planos de saude que possui a seguinte necessidade: Uma solução que concilie as informações oriundas de demonstrativo de uma operadora de saúde e a lista de beneficiários dos planos de saúde dessa operadora para cada competência (mensal). Como os dados contém informações pessoais é mandatório a aplicação de regras LGPD para efeito de auditoria. <br>
-[link para GIT](https://github.com/API-5-SEMESTRE)
+A Dom Rock é uma empresa que proporciona ao cliente, por meio de análise de dados, a potencialização de suas estratégias comerciais e melhora a eficiência de mercado. O desafio proposto pela Dom Rock: o cliente gerencia um sistema de gestão de planos de saude que possui a necessidade de uma solução que concilie as informações oriundas de demonstrativo de uma operadora de saúde e a lista de beneficiários dos planos de saúde dessa operadora para cada competência (mensal). Como os dados contém informações pessoais é mandatório a aplicação de regras LGPD para efeito de auditoria. <br>
+[link para GIT](https://github.com/API-6-SEMESTRE)
 
 
 #### Tecnologia Utilizadas
