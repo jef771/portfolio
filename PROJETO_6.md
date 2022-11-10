@@ -98,7 +98,7 @@ def save_faturas(fatura):
 ```
 </details>
 
-###### - <i>Opções ao executa o script</i>
+###### - <i>Opções ao executar o script</i>
 - Como o script foi feito para ser executado via linha de comando, achei pertinente incluir opções para a execução, como a opção -q (<i>quiet</i>) para omitir algumas partes do log ou -v (<i>verbose</i>) para mostrar todo o processo do log no terminal. Também foi adicionado 3 opções, bronze, silver ou gold, para o usuário escolher qual processo ele deseja executar.
 - Abaixo é possível clicar e visualizar o script para opções do processo.
 <details>
