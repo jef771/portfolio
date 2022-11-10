@@ -30,7 +30,10 @@ Fiquei encarregado do <i>ETL</i> (<i>Extract, transform, load</i>) em python, do
 <br>
 
 ###### - <i>ETL</i>
-- O <i>ETL</i> foi dividido em 3 partes, bronze, onde foi feito apenas a parte inicial para filtrar colunas que não tinham dados importantes e persistensia no banco, silver, onde foi feito um trabalho de análise de dados solicitado pelo cliente, e finalmente o gold, onde é feito a construção das entidades e persistido na <i>Data Warehouse</i>. .
+- O <i>ETL</i> foi dividido em 3 processos:
+	- Bronze: filtra colunas que não possuem dados chaves e persiste no banco.
+	- Silver: trabalho de análise de dados solicitado e novamente persistência no banco.
+	- Gold: construção das entidades e persistência na <i>Data Warehouse</i>.
 - Abaixo é possível clicar e visualizar o processo gold.
 <details>
 <summary markdown="span"y>Processo gold</summary>
