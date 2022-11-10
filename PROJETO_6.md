@@ -22,7 +22,7 @@ A Dom Rock é uma empresa que proporciona ao cliente, por meio de análise de da
 
 
 #### Contribuições Pessoais
-Fiquei encarregado do <i>etl</i> (<i>Extract, transform, load</i>) em python, do log para capturar informações pertinentes ao processo de <i>etl</i> (como dados importantes faltantes ou erro no processo) e do script da nossa <i>Data Warehouse</i> onde o resultado final de todo o processo de <i>etl</i> foi armazenado.
+Fiquei encarregado do <i>ETL</i> (<i>Extract, transform, load</i>) em python, do log para capturar informações pertinentes do processo (como dados importantes faltantes ou erro no processo) e do script da nossa <i>Data Warehouse</i> onde o resultado final de todo a <i>pipeline</i> foi armazenado.
 ###### - Arquitetura do Sistema
 - Uma visão geral da arquitetura do programa.
 <br>
@@ -30,7 +30,7 @@ Fiquei encarregado do <i>etl</i> (<i>Extract, transform, load</i>) em python, do
 <br>
 
 ###### - <i>ETL</i>
-- O <i>etl</i> foi dividido em 3 partes, bronze, onde foi feito apenas a parte inicial para filtrar colunas que não tinham dados importantes e persistensia no banco, silver, onde foi feito um trabalho de análise de dados solicitado pelo cliente, e finalmente o gold, onde é feito a construção das entidades e persistido na <i>Data Warehouse</i>. .
+- O <i>ETL</i> foi dividido em 3 partes, bronze, onde foi feito apenas a parte inicial para filtrar colunas que não tinham dados importantes e persistensia no banco, silver, onde foi feito um trabalho de análise de dados solicitado pelo cliente, e finalmente o gold, onde é feito a construção das entidades e persistido na <i>Data Warehouse</i>. .
 - Abaixo é possível clicar e visualizar o processo gold.
 <details>
 <summary markdown="span"y>Processo gold</summary>
@@ -116,7 +116,7 @@ args = parser.parse_args()
 ###### - Script da <i>Data Warehouse</i>
 
 <details>
-<summary markdown="span">Unit Test</summary>
+<summary markdown="span">Script</summary>
 	
 ```Sql
 create database api;
@@ -206,7 +206,7 @@ create table fato (
     - Eu já conhecia bastante da linguagem porém pude praticar alguns conceitos que não são utilizados comumente, como opção ao rodar o script pelo terminal
     - Sei fazer com autonomia
 - [x] Pandas
-    - A biblioteca foi muito utilizada no processo de <i>etl</i> bronze para navegar de forma fácil no arquivo xls
+    - A biblioteca foi muito utilizada no processo de <i>ETL</i> bronze para navegar de forma fácil no arquivo xls
     - Sei fazer com ajuda
 - [x] MySql
     - Pude praticar um pouco de MySql, é sempre interessante ver as diferenças entre uma linguagem sql e outra
@@ -216,4 +216,4 @@ create table fato (
     - Sei fazer com autonomia
 
 #### Soft Skills
-- Primeiro precisei ser <b>flexível</b> e aceitar trabalhar com outra linguagem que não fosse Java, mas sem dúvidas o que mais pratiquei nesse projeto foi a <b>empatia</b>, sendo o último semestre todos do grupo estávamos muito atarefados, assim, foi necessário entender o motivo de cada um quando houve algum atraso de entrega, inclusive meu, e com esses atrasos ou contra-tempos foi necessário, novamente, muito <b>trabalho em equipe</b> para terminar as tarefas e <b>resiliência</b> para aguentar dormir às 3 da manhã e acordar às 6 horas para trabalhar.
+Primeiro precisei ser <b>flexível</b> e aceitar trabalhar com outra linguagem que não fosse Java, mas sem dúvidas o que mais pratiquei nesse projeto foi a <b>empatia</b>, pois sendo o último semestre todos do grupo estávamos muito atarefados, dessa forma foi necessário entender o motivo de cada um quando houve algum atraso de entrega, inclusive meu.
