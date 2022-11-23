@@ -205,17 +205,17 @@ create table fato (
 
 #### Hard Skills Efetivamente Desenvolvidas
 - [x] Python
-    - Eu já conhecia bastante da linguagem porém pude praticar alguns conceitos que não são utilizados comumente, como opção ao rodar o script pelo terminal.
-    - Sei fazer com autonomia.
+    - Eu já conhecia bastante da linguagem porém pude praticar alguns conceitos que não são utilizados comumente, como opção ao rodar o script pelo terminal
+    - Sei fazer com autonomia
 - [x] Pandas
-    - A biblioteca foi muito utilizada no processo de <i>ETL</i> bronze para navegar de forma fácil no arquivo xls.
-    - Sei fazer com ajuda.
+    - A biblioteca foi muito utilizada no processo de <i>ETL</i> bronze para navegar de forma fácil no arquivo xls
+    - Sei fazer com ajuda
 - [x] MySql
-    - Pude praticar um pouco de MySql, é sempre interessante ver as diferenças entre uma linguagem sql e outra.
-    - Sei fazer com ajuda.
+    - Pude praticar um pouco de MySql, é sempre interessante ver as diferenças entre uma linguagem sql e outra
+    - Sei fazer com ajuda
 - [x] PL/SQL
     - Pude colocar em prática o que aprendi no mercado de trabalho!
-    - Sei fazer com autonomia.
+    - Sei fazer com autonomia
 
 #### Soft Skills
 Primeiro precisei ser <b>flexível</b> e aceitar trabalhar com outra linguagem que não fosse Java, mas sem dúvidas o que mais pratiquei nesse projeto foi a <b>empatia</b>, pois, sendo o último semestre, todos do grupo estavam muito atarefados, dessa forma foi necessário <b>compreender</b> os impedimentos e dores de cada membro do grupo.
