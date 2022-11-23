@@ -4,7 +4,7 @@ CATE - Collect Analyze Treatment Exhibition
 </h2>
 
 Trabalhei na solução para o desafio proposto pela parceira acadêmica Dom Rock.<br>
-A Dom Rock é uma empresa que proporciona ao cliente, por meio de análise de dados, a potencialização de suas estratégias comerciais e melhora a eficiência de mercado. O desafio proposto pela Dom Rock: o cliente gerencia um sistema de gestão de planos de saude que possui a necessidade de uma solução que concilie as informações oriundas de demonstrativo de uma operadora de saúde e a lista de beneficiários dos planos de saúde dessa operadora para cada competência (mensal). Como os dados contém informações pessoais é mandatório a aplicação de regras LGPD para efeito de auditoria.<br>
+A Dom Rock é uma empresa que proporciona ao cliente, por meio de análise de dados, a potencialização de suas estratégias comerciais e melhora a eficiência de mercado. O desafio proposto pela Dom Rock: o cliente gerencia um sistema de gestão de planos de saude que possui a necessidade de uma solução que concilie as informações oriundas de demonstrativo de uma operadora de saúde e a lista de beneficiários dos planos de saúde dessa operadora para cada competência (mensal). Como os dados contém informações pessoais é mandatório a aplicação de regras LGPD (Lei Geral de Proteção de Dados Pessoais) para efeito de auditoria.<br>
 [link para GIT](https://github.com/API-6-SEMESTRE)
 
 
@@ -100,7 +100,6 @@ def save_faturas(fatura):
 
 ###### - <i>Opções ao executar o script</i>
 - Como o script foi feito para ser executado via linha de comando, achei pertinente incluir opções para a execução, como a opção -q (<i>quiet</i>) para omitir algumas partes do log ou -v (<i>verbose</i>) para mostrar todo o processo do log no terminal. Também foi adicionado 3 opções, bronze, silver ou gold, para o usuário escolher qual processo ele deseja executar.
-- Abaixo é possível clicar e visualizar o script para opções do processo.
 <details>
 <summary markdown="span"y>Opções para o Script</summary>
 
@@ -206,17 +205,17 @@ create table fato (
 
 #### Hard Skills Efetivamente Desenvolvidas
 - [x] Python
-    - Eu já conhecia bastante da linguagem porém pude praticar alguns conceitos que não são utilizados comumente, como opção ao rodar o script pelo terminal
-    - Sei fazer com autonomia
+    - Eu já conhecia bastante da linguagem porém pude praticar alguns conceitos que não são utilizados comumente, como opção ao rodar o script pelo terminal.
+    - Sei fazer com autonomia.
 - [x] Pandas
-    - A biblioteca foi muito utilizada no processo de <i>ETL</i> bronze para navegar de forma fácil no arquivo xls
-    - Sei fazer com ajuda
+    - A biblioteca foi muito utilizada no processo de <i>ETL</i> bronze para navegar de forma fácil no arquivo xls.
+    - Sei fazer com ajuda.
 - [x] MySql
-    - Pude praticar um pouco de MySql, é sempre interessante ver as diferenças entre uma linguagem sql e outra
-    - Sei fazer com ajuda
+    - Pude praticar um pouco de MySql, é sempre interessante ver as diferenças entre uma linguagem sql e outra.
+    - Sei fazer com ajuda.
 - [x] PL/SQL
     - Pude colocar em prática o que aprendi no mercado de trabalho!
-    - Sei fazer com autonomia
+    - Sei fazer com autonomia.
 
 #### Soft Skills
-Primeiro precisei ser <b>flexível</b> e aceitar trabalhar com outra linguagem que não fosse Java, mas sem dúvidas o que mais pratiquei nesse projeto foi a <b>empatia</b>, pois sendo o último semestre todos do grupo estávamos muito atarefados, dessa forma foi necessário entender o motivo de cada um quando houve algum atraso de entrega, inclusive meu.
+Primeiro precisei ser <b>flexível</b> e aceitar trabalhar com outra linguagem que não fosse Java, mas sem dúvidas o que mais pratiquei nesse projeto foi a <b>empatia</b>, pois, sendo o último semestre, todos do grupo estavam muito atarefados, dessa forma foi necessário <b>compreender</b> os impedimentos e dores de cada membro do grupo.
