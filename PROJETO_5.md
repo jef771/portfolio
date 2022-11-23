@@ -36,7 +36,7 @@ Fiquei encarregado de todo o <i>backend</i> em Java do projeto, CI/CD, arquitetu
 
 ###### - <i>Backend</i>
 - Fiz todo o backend do projeto, controller, model, service e repository, porém o que eu mais desenvolvi foi a qualidade do código.
-- Abaixo é possível clicar e visualizar um exemplo de uma das 3 entidades do código fonte. Podemos ver a utilização da biblioteca <b>Lombok</b> para simplificar e manter o código mais legível eliminando código <i>boilerplate</i> (código recorrente como <i>getters</i> e <i>setters</i>). Também podemos observar a utilização do <i>framework</i> <b>Hibernate</b> sendo utilizado no seu modelo <b>JPA</b> para abstrair e deixar mais simples a comunicação entre o banco de dados e a camada <i>Model</i>. Também temos exemplos de diversos tipos de mapeamento de entidades.
+- A seguir é possível clicar e visualizar um exemplo de uma das 3 entidades do código fonte. Neste trecho de código é possível visualizar a utilização da biblioteca <b>Lombok</b> para simplificar e manter o código mais legível eliminando código <i>boilerplate</i> (código recorrente como <i>getters</i> e <i>setters</i>), a implementação do <i>framework</i> <b>Hibernate</b>, sendo utilizado no seu modelo <b>JPA</b>, para abstrair e deixar mais simples a comunicação entre o banco de dados e a camada <i>Model</i> e exemplos de diversos tipos de mapeamento de entidades.
 <details>
 <summary markdown="span"y>Entidade</summary>
 
