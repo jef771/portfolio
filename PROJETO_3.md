@@ -1,4 +1,4 @@
-﻿<p align="center"> <img src="img/logo_airplan.jpg" class="center" width=150/> </p>
+﻿<p align="center"> <img src="https://raw.githubusercontent.com/jef771/portfolio/main/img/logo_airplan.jpg" class="center" width=150/> </p>
 <h2 align="center">
 AirPlan
 </h2>
@@ -18,7 +18,7 @@ Fui responsável pela maioria do <b>backend</b>, pela arquitetura MVC, regras de
 - O maior desafio do projeto. A lógica de programação para executar a raspagem de dados dos manuais em formato pdf, como ainda estávamos sendo introduzidos a programação mais avançada (que lida com estruturas de dados) precisei estudar em todo tempo livre que tive para aprender novas estruturas e saber onde aplica-las também usei muito a biblioteca externa <i>itextpdf</i>.
 
 ###### - Organização dos pacotes no modelo MVC
-<img src="img/arquitetura-mvc.png">
+<img src="https://raw.githubusercontent.com/jef771/portfolio/main/img/arquitetura-mvc.png">
 - É possível verificar exemplos de Controller (onde é feita a comunicação entre <i>front</i> e <i>back</i>), Repository (camada de comunicação entre <i>back</i> e banco de dados) e Service (camada de lógica da aplicação, no caso: raspagem de dados).
 <br>
 <br>
@@ -201,7 +201,7 @@ public class LepService
 ###### - Grande Contribuição
 - Esse foi um dos projetos que mais contribui e de maneira essencial para o sucesso do grupo.
 <br>
-<img src="img/contribuicoes.png">
+<img src="https://raw.githubusercontent.com/jef771/portfolio/main/img/contribuicoes.png">
 <br>
 
 #### Hard Skills Efetivamente Desenvolvidas
