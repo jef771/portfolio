@@ -26,7 +26,7 @@ Fiquei encarregado do <i>ETL</i> (<i>Extract, transform, load</i>) em python, do
 ###### - Organização do Sistema
 - Uma visão geral da arquitetura do programa.
 <br>
-<img src="img/ARQP.png">
+<img src="https://raw.githubusercontent.com/jef771/portfolio/main/img/ARQP.png">
 <br>
 
 ###### - <i>ETL</i>
