@@ -1,4 +1,4 @@
-﻿<p align="center"> <img src="img/logo_endurance.png" class="center" width=200/> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/jef771/portfolio/main/img/logo_endurance.png" class="center" width=200/> </p>
 <h2 align="center">
 Endurance
 </h2>
@@ -18,7 +18,7 @@ Fiquei encarregado de todo o <i>backend</i> do projeto e de parte da criação d
 ###### - Organização dos Pacotes
 - Uma visão geral da da organização dos pacotes. Já que na parte <i>View</i> foi utilizado um <i>framework</i> de <i>frontend</i> (Angular) o <i>backend</i> ficou encarregado da parte <i>Model</i> e <i>Controller</i> e outros pacotes interessantes para o projeto como <i>exception</i> para um melhor controle do fluxo do programa e <i>constant</i> para deixar o código mais legível.
 <br>
-<img src="img/MVC.png">
+<img src="https://raw.githubusercontent.com/jef771/portfolio/main/img/MVC.png">
 <br>
 
 ###### - <i>Backend</i>
