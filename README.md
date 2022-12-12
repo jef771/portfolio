@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/jef771/portfolio/main/img/eu.png" class="center" width=350/> </p>
 
-Olá! Me chamo Jeferson e sou de nascido no interior porém cresci em São Paulo capital, fui para São José dos Campos fazer faculdade de aviação mas conheci a programação e me apaixonei. No momento sou estudante de Banco de Dados pela FATEC São José dos Campos, Java Junior Developer na Alura e futuro Engenheiro de Software e estas são minhas experiências no desenvolvimento da API.
+Olá! Me chamo Jeferson nasci no interior porém cresci em São Paulo capital, aos meus 26 anos fui para São José dos Campos fazer faculdade de aviação mas conheci a programação e me apaixonei. No momento sou estudante de Banco de Dados pela FATEC São José dos Campos, Java Junior Developer na Alura e futuro Engenheiro de Software e estas são minhas experiências no desenvolvimento da API.
 
 # Meus Projetos
 
