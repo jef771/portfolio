@@ -1,6 +1,6 @@
 <p align="center"> <img src="img/eu.png" class="center" width=350/> </p>
 
-Estudante de Banco de Dados pela FATEC São José dos Campos, Java Junior Developer e futuro Data Engineer e estas são minhas experiências no desenvolvimento da API.
+Olá! Me chamo Jeferson e sou de nascido no interior porém cresci em São Paulo capital, fui para São José dos Campos fazer faculdade de aviação mas conheci a programação e me apaixonei. No momento sou estudante de Banco de Dados pela FATEC São José dos Campos, Java Junior Developer na Alura e futuro Engenheiro de Software e estas são minhas experiências no desenvolvimento da API.
 
 # Meus Projetos
 
