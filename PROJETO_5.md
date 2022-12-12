@@ -28,8 +28,8 @@ A SPC é uma empresa famosa no Brasil que já participou de outros projetos com 
 
 #### Contribuições Pessoais
 Fiquei encarregado de todo o <i>backend</i> em Java do projeto, CI/CD, arquitetura e também me aventurei brevemente no <i>frontend</i>. Novamente escolhi a arquitetura MVC, devido a sua fácil organização e prototipação, desse modo pude começar o projeto de maneira rápida. Com esse começo rápido e mais fácil - já que estava acostumado com o framework e linguagem - pude estudar sobre os princípios do DevOps, utilizando esse estudo para criar o CI/CD do projeto e versionamento no GitHub.
-###### - Organização do Sistema
-- Uma visão geral da arquitetura do programa. Seguindo o que foi visto no projeto Endurance.
+###### - Organização dos Pacotes
+- Uma visão geral da organização dos pacotes. Seguindo o que foi visto no projeto Endurance.
 <br>
 <img src="img/MVC2.png">
 <br>
