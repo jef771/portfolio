@@ -1,4 +1,4 @@
-<p align="center"> <img src="img/logo_nuna.png" class="center" width=150/> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/jef771/portfolio/main/img/logo_nuna.png" class="center" width=150/> </p>
 <h2 align="center">
 NUNA, sua assistente de voz para viagens
 </h2>
@@ -18,15 +18,15 @@ Fui responsável pelo UI-UX, desenvolvimento das páginas e a produção de algu
 ###### <i>- UI-UX</i>
 - Utilizei o design de cards e sombreamento para o ux, a ideia é que o usuário abra a página e já entenda que existe diferentes funções.
 <br>
-<img src="img/tela_login.png">
+<img src="https://raw.githubusercontent.com/jef771/portfolio/main/img/tela_login.png">
 <br>
-<img src="img/ui_ux.png">
+<img src="https://raw.githubusercontent.com/jef771/portfolio/main/img/ui_ux.png">
 <br>
 
 ###### <i>- Features</i>
 - Também executei algumas das <i>features</i>:
 <br>
-<img src="img/feito-por-mim.png">
+<img src="https://raw.githubusercontent.com/jef771/portfolio/main/img/feito-por-mim.png">
 <br>
 - Mapa, função simples que usava o javaScript para mostrar o destino falado pelo usuário, documento, outra função simples para abrir uma página contendo os documentos necessários para voos nacionais e internacionais, posição, usava uma api do google para mostrar a posição do usuário no google Maps, trajeto, uma função um pouco mais complexa, mostrava o trajeto que o usuário pedia por exemplo: "São Paulo para Rio de Janeiro".
 
