@@ -15,7 +15,7 @@ Java SE 14, GitHub, Framework Springboot, Oracle Autonomous Database , Angular e
 
 #### Contribuições Pessoais
 Fiquei encarregado de todo o <i>backend</i> do projeto e de parte da criação do banco de dados. A arquitetura que eu escolhi foi a MVC (<i>Model</i> <i>View</i> <i>Controller</i>), pois, além de adequar-se muito bem às soluções propostoas, ainda é muito utilizada no mercado de trabalho, pela sua facilidade de prototipação, dessa forma trazendo um desenvolvimento mais simples e um conhecimento de Hard Skill útil. Também optei pelo padrão <i>facade</i> ou seja, o cliente faz requisições (em JSON) para o programa portanto o <b>Spring Boot</b> também foi o mais adequado.
-###### - Arquitetura do Sistema
+###### - Organização do Sistema
 - Uma visão geral da arquitetura do programa. Já que na parte <i>View</i> foi utilizado um <i>framework</i> de <i>frontend</i> (Angular) o <i>backend</i> ficou encarregado da parte <i>Model</i> e <i>Controller</i> e outros pacotes interessantes para o projeto como <i>exception</i> para um melhor controle do fluxo do programa e <i>constant</i> para deixar o código mais legível.
 <br>
 <img src="img/MVC.png">
