@@ -1,4 +1,4 @@
-﻿<p align="center"> <img src="img/logo_poc.png" class="center" width=150/> </p>
+﻿<p align="center"> <img src="https://raw.githubusercontent.com/jef771/portfolio/main/img/logo_poc.png" class="center" width=150/> </p>
 <h2 align="center">
 POC - Processos Otimizados de Contas
 </h2>
