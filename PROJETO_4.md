@@ -338,4 +338,5 @@ class EventoServiceImplTest {
     - Sei fazer com ajuda
 
 #### Soft Skills
+
 Nesse projeto decidi desenvolver mais minhas habilidade no backend utilizando ferramentas do mercado de trabalho, portanto precisei de muita <b>organização</b> para conciliar estudo fora e dentro da faculdade, precisei de muita <b>comunicação</b> e <b>trabalho em equipe pois, sendo o projeto separado em frontend e backend, cada vez que eu terminava uma implementação no backend tinha que comunicar o frontend e quando o membro da equipe responsável pelo frontend não podia implementar era preciso entender os motivos e ter <b>empatia</b>, acabei implementando muitas partes do frontend devido a isso.
