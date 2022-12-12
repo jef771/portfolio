@@ -23,7 +23,7 @@ A Dom Rock é uma empresa que proporciona ao cliente, por meio de análise de da
 
 #### Contribuições Pessoais
 Fiquei encarregado do <i>ETL</i> (<i>Extract, transform, load</i>) em python, do log para capturar informações pertinentes do processo (como dados importantes faltantes ou erro no processo) e do script da nossa <i>Data Warehouse</i> onde o resultado final de todo a <i>pipeline</i> foi armazenado.
-###### - Arquitetura do Sistema
+###### - Organização do Sistema
 - Uma visão geral da arquitetura do programa.
 <br>
 <img src="img/ARQP.png">
