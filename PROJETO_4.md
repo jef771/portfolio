@@ -338,9 +338,4 @@ class EventoServiceImplTest {
     - Sei fazer com ajuda
 
 #### Soft Skills
-- [x] Organização<br>
-    - Precisei de muita! Seja na vida pessoal ou no código - para gerenciar toda a programação do <b>backend</b>.
-- [x] Trabalho em Equipe<br>
-    - Como o Frontend e Backend foram separados nessa api, foi necessário muito trabalho em equipe para os dois funcionarem de maneira correta.
-- [x] Empatia<br>
-    - Alguns membros do time tiveram vários problemas durante o semestre então precisei entender os seus motivos e executar alguns trabalhos fora do meu escopo.
+Nesse projeto decidi desenvolver mais minhas habilidade no backend utilizando ferramentas do mercado de trabalho, portanto precisei de muita <b>organização</b> para conciliar estudo fora e dentro da faculdade, precisei de muita <b>comunicação</b> e <b>trabalho em equipe pois, sendo o projeto separado em frontend e backend, cada vez que eu terminava uma implementação no backend tinha que comunicar o frontend e quando o membro da equipe responsável pelo frontend não podia implementar era preciso entender os motivos e ter <b>empatia</b>, acabei implementando muitas partes do frontend devido a isso.
